@@ -1,0 +1,7 @@
+data/
+.venv/
+.mypy_cache/
+**/__pycache__/
+config/
+outputs/
+models/
